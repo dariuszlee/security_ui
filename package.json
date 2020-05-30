@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "sass": "^1.26.7",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-draggable": "^4.4.2",
+    "three": "^0.117.1"
+  }
+}
